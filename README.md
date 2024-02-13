@@ -5,7 +5,7 @@ Projeto desenvolvido no curso "Modelagem de banco de dados relacional: entendend
 ### Dependencias para  execução:
 - Comando para construir e iniciar o DB em um container Docker (Primeira execução)
     - docker-compose up --build
-    Com a execução desse comando sera criado um container rodando um banco de dados MySql com o schema "clube_do_livro" e as tabelas "ESTOQUE", "LIVROS", "VENDAS" e "VENDEDORES" criadas de acordo com o modelo entidade-relacionamento e alguns dados inseridos nessas tabelas.
+Com a execução desse comando sera criado um container rodando um banco de dados MySql com o schema "clube_do_livro" e as tabelas "ESTOQUE", "LIVROS", "VENDAS" e "VENDEDORES" criadas de acordo com o modelo entidade-relacionamento e alguns dados inseridos nessas tabelas.
 
 - Comando para iniciar o container
     - docker-compose up
